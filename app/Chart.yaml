@@ -1,6 +1,10 @@
 apiVersion: v2
-name: .
-description: A Helm chart for Kubernetes
+name: app
+description: A Helm chart for Kubernetes to Deploy Africa Prudential Microservices
+home: https://github.com/africa-prudential/africa-prudential-helm.git
+maintainers:
+    - name: Adedayo Akinpelu
+      email: adedayo.akinpelu@africaprudential.com 
 
 # A chart can be either an 'application' or a 'library' chart.
 #
